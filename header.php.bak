@@ -55,7 +55,7 @@
 		  
 		  <li class="nav-item dropdown">
 			<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-			  <img src="images/cad.png" style="width: 20px; margin: -4px 4px 0 0;"> CAD
+			  <img src="images/cad.png" style="width: 20px; margin: -4px 4px 0 0;"> USA
 			</a>
 			<div class="dropdown-menu" aria-labelledby="navbarDropdown">
 			  <a class="dropdown-item" href="#"> <img src="images/mx.png" style="width: 20px; margin: -4px 4px 0 0;"> MX </a>
