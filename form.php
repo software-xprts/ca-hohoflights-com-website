@@ -8,7 +8,7 @@
   <div class="tab-pane in active" id="tab1default">
 	<div class="form_bx">
 	   <!-- <h4 class="easy_srch"> Fast and Easy Search </h4> -->
-		<form method="GET" action="https://ca.hohoflights.com:7001/" onsubmit="return first_form()">
+		<form method="GET" action="https://ca.hohoflights.com:7001/flights.html" onsubmit="return first_form()">
          <input type="hidden" name="r" value="1">
 				<div class="col-sm-12">
 				  <div class="row">
