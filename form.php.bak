@@ -31,8 +31,8 @@
 				</div>
 			<input type="hidden" id="currency_id" name="currency" value="USD">
 			<input type="hidden" value="ADC17A46E2" required="required" name="customerId">	
-			<input type="hidden" value="hohoflights_us" required="required" name="website">	
-			<input type="hidden" value="hohoflights_us" required="required" name="metaName">
+			<input type="hidden" value="hohoflights_ca" required="required" name="website">	
+			<input type="hidden" value="hohoflights_ca" required="required" name="metaName">
 			<input type="hidden" value="no" required="required" name="b2b">	
 			<input type="hidden" value="3G" required="required" name="gt">
 			
