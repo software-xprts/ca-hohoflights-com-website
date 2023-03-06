@@ -6,8 +6,8 @@
 	   <div class="col-md-9">
 	    <div class="lp_welcome">
 		 <ul>
-		  <li> <a href="tel:+1-800-870-6004"> 24x7 Live Assistance </a> </li>
-		  <li> <a href="tel:+1-800-870-6004"> +1-800-870-6004 </a> </li>
+		  <li> <a href="tel:+1-800-233-4153"> 24x7 Live Assistance </a> </li>
+		  <li> <a href="tel:+1-800-233-4153"> +1-800-233-4153 </a> </li>
 		  <li> <a href="mailto:bookings@hohoflights.com"> bookings@hohoflights.com </a> </li>
 		 </ul>
 		</div>
@@ -55,7 +55,7 @@
 		  
 		  <li class="nav-item dropdown">
 			<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-			  <img src="images/cad.png" style="width: 20px; margin: -4px 4px 0 0;"> USA
+			  <img src="images/cad.png" style="width: 20px; margin: -4px 4px 0 0;"> CAD
 			</a>
 			<div class="dropdown-menu" aria-labelledby="navbarDropdown">
 			  <a class="dropdown-item" href="#"> <img src="images/mx.png" style="width: 20px; margin: -4px 4px 0 0;"> MX </a>

@@ -6,8 +6,8 @@
 	   <div class="col-md-9">
 	    <div class="lp_welcome">
 		 <ul>
-		  <li> <a href="tel:+1-800-870-6004"> 24x7 Live Assistance </a> </li>
-		  <li> <a href="tel:+1-800-870-6004"> +1-800-870-6004 </a> </li>
+		  <li> <a href="tel:+1-800-233-4153"> 24x7 Live Assistance </a> </li>
+		  <li> <a href="tel:+1-800-233-4153"> +1-800-233-4153 </a> </li>
 		  <li> <a href="mailto:bookings@hohoflights.com"> bookings@hohoflights.com </a> </li>
 		 </ul>
 		</div>
@@ -66,7 +66,7 @@
 		</ul>
 		<form class="Next_tollfree">
 		  <p> Call 24/7 for our best deals </p>
-		  <a href="tel:+1-800-870-6004"> +1-800-870-6004 </a>
+		  <a href="tel:+1-800-233-4153"> +1-800-233-4153 </a>
 		</form>
 	  </div>
 	  </div>
