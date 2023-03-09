@@ -386,7 +386,7 @@
 			   <h2> Flights under $199 </h2>
 			   <h6> Are you in search of flights under $199? Hohoflights is here to help. Hohoflights.com </h6>
 			   <h5> Fares starting from </h5>
-			   <h4> <i class="fa fa-tag"></i> $190.44  </h4>
+			   <h4> <i class="fa fa-tag"></i> CAD 190.44  </h4>
 			   <ul>
 				<li style="color: #333; font-weight: 500; background: transparent;"> Rating : </li>
 				<li> <i class="fa fa-star-o"></i> </li>
@@ -409,7 +409,7 @@
 		   <h2> Senior Travel Flight </h2>
 		   <h6> With Hohoflights Senior travel is easy on the pockets!. Hohoflights.com </h6>
 		   <h5> Fares starting from  </h5>
-		   <h4> $120.50 </h4>
+		   <h4> CAD 120.50 </h4>
 		   <ul>
 		    <li style="color: #333; font-weight: 500; background: transparent;"> Rating : </li>
 			<li> <i class="fa fa-star-o"></i> </li>
@@ -432,7 +432,7 @@
 		   <h2> Flights for Student </h2>
 		   <h6> The long school year is over, and it is time to break free and see the world. Hohoflights.com </h6>
 		   <h5> Fares starting from </h5>
-		   <h4> $196.36  </h4>
+		   <h4> CAD 196.36  </h4>
 		   <ul>
 		    <li style="color: #333; font-weight: 500; background: transparent;"> Rating : </li>
 			<li> <i class="fa fa-star-o"></i> </li>
@@ -455,7 +455,7 @@
 		   <h2> Military Flights </h2>
 		   <h6> Looking for cheap airline tickets for military personnel?. Hohoflights.com </h6>
 		   <h5> Fares starting from </h5>
-		   <h4> <i class="fa fa-tag"></i> $111.00 </h4>
+		   <h4> <i class="fa fa-tag"></i> CAD 111.00 </h4>
 		   <ul>
 		    <li style="color: #333; font-weight: 500; background: transparent;"> Rating : </li>
 			<li> <i class="fa fa-star-o"></i> </li>

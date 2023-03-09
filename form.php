@@ -29,7 +29,7 @@
 					</div>
 				 </div>
 				</div>
-			<input type="hidden" id="currency_id" name="currency" value="USD">
+			<input type="hidden" id="currency_id" name="currency" value="CAD">
 			<input type="hidden" value="ADC17A46E2" required="required" name="customerId">	
 			<input type="hidden" value="hohoflights_ca" required="required" name="website">	
 			<input type="hidden" value="hohoflights_ca" required="required" name="metaName">
